@@ -1,0 +1,1 @@
+This program loads an English or Chinese text image on the RB1 device, recognizes the text in the image, and outputs the text to a txt file. In order to compare the OCR effect, the project provides the original image and the recognition result txt file.
