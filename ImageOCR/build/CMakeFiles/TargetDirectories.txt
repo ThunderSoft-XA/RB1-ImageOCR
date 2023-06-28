@@ -1,0 +1,3 @@
+/home/turbox/workspace/Flamingo/Turbox_ImageOCR/build/CMakeFiles/rebuild_cache.dir
+/home/turbox/workspace/Flamingo/Turbox_ImageOCR/build/CMakeFiles/image_ocr.dir
+/home/turbox/workspace/Flamingo/Turbox_ImageOCR/build/CMakeFiles/edit_cache.dir
