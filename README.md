@@ -1,4 +1,4 @@
-# Qualcomm® QRB2210 Open Kits Turbox-ImageOCR-demo Developer documentation
+# Qualcomm® QRB2210 Open Kits ImageOCR-demo Developer documentation
 
 ## Introduce
 
